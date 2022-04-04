@@ -1,1 +1,1 @@
-# class-27-project
+# PRO-Tablet-C27-Project-Template
